@@ -1,1 +1,6 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+body {
+  text-align: center;
+  padding-top: 60px;
+}
